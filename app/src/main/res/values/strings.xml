@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">MyFEFUApplication</string>
+    <string name="registration_page">Регистрация</string>
+    <string name="login_page">Вход</string>
+
+    <string name="main_text_for_welcome">Пожалуй лучший \n фитнес трекер в ДВФУ</string>
+    <string name="side_text_for_welcome">созданный студентами \n 2-ого курса</string>
+    <string name="start_registration">Зарегистрироваться</string>
+    <string name="start_login">Войти</string>
+    <string name="have_account">Уже есть аккаунт?</string>
+    <string name="exit">Выйти</string>
+    <string name="save">Сохранить</string>
+    <string name="accept">Принять</string>
+    <string name="change_password">Изменить пароль</string>
+
+    <string name="login_hint">Логин</string>
+    <string name="username_hint">Имя или никнейм</string>
+    <string name="password_hint">Пароль</string>
+    <string name="old_password_hint">Старый Пароль</string>
+    <string name="new_password_hint">Новый пароль</string>
+    <string name="repeated_password_hint">Повторите пароль</string>
+    <string name="gender">Пол</string>
+    <string name="male">Мужской</string>
+    <string name="female">Женский</string>
+    <string name="another_gender">Другое</string>
+    <string name="agreement">
+        Нажимая на кнопку, вы соглашаетесь\n
+        с <a href="https://ya.ru">политикой конфиденциальности</a> и обработки персональных\n
+        данных, а также принимаете <a href="https://ya.ru">пользовательское соглашение</a>
+    </string>
+
+    <string name="activity">Активность</string>
+    <string name="profile">Профиль</string>
+    <string name="personal">Мои</string>
+    <string name="common">Пользовательские</string>
+    <string name="no_activities">Нет активности</string>
+
+    <string name="temp">Временный текст</string>
+</resources>
